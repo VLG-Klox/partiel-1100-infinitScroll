@@ -1,7 +1,8 @@
-.beerDiv {
-  width: 200px;
-  height: 200px;
-  display: inline-block;
-  margin: 20px;
-  border: 1px solid black;
+.loader {
+	color: white;
+}
+.flex {
+	display: flex;
+	margin: 1rem 0;
+	justify-content: center;
 }
